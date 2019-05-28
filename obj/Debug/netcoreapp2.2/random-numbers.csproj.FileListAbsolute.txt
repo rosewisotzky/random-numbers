@@ -1,0 +1,11 @@
+/Users/rosewisotzky/workspace/csharp/book-one/random-numbers/bin/Debug/netcoreapp2.2/random-numbers.deps.json
+/Users/rosewisotzky/workspace/csharp/book-one/random-numbers/bin/Debug/netcoreapp2.2/random-numbers.runtimeconfig.json
+/Users/rosewisotzky/workspace/csharp/book-one/random-numbers/bin/Debug/netcoreapp2.2/random-numbers.runtimeconfig.dev.json
+/Users/rosewisotzky/workspace/csharp/book-one/random-numbers/bin/Debug/netcoreapp2.2/random-numbers.dll
+/Users/rosewisotzky/workspace/csharp/book-one/random-numbers/bin/Debug/netcoreapp2.2/random-numbers.pdb
+/Users/rosewisotzky/workspace/csharp/book-one/random-numbers/obj/Debug/netcoreapp2.2/random-numbers.csprojAssemblyReference.cache
+/Users/rosewisotzky/workspace/csharp/book-one/random-numbers/obj/Debug/netcoreapp2.2/random-numbers.csproj.CoreCompileInputs.cache
+/Users/rosewisotzky/workspace/csharp/book-one/random-numbers/obj/Debug/netcoreapp2.2/random-numbers.AssemblyInfoInputs.cache
+/Users/rosewisotzky/workspace/csharp/book-one/random-numbers/obj/Debug/netcoreapp2.2/random-numbers.AssemblyInfo.cs
+/Users/rosewisotzky/workspace/csharp/book-one/random-numbers/obj/Debug/netcoreapp2.2/random-numbers.dll
+/Users/rosewisotzky/workspace/csharp/book-one/random-numbers/obj/Debug/netcoreapp2.2/random-numbers.pdb
